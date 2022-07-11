@@ -33,6 +33,7 @@ ramips_setup_interfaces()
 	asiarf,ap7621-nv1|\
 	glinet,gl-mt1300|\
 	jcg,q20|\
+	jdcloud,re-sp-01b|\
 	lenovo,newifi-d1|\
 	mikrotik,routerboard-m33g|\
 	xiaomi,mi-router-3g|\
